@@ -34,7 +34,6 @@ env:
   TZ: Asia/Shanghai
   OPENWRT_NAME: openwrt
 
-
 jobs:
   build:
     runs-on: ubuntu-20.04
