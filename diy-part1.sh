@@ -15,3 +15,4 @@
 
 # Add a feed source
 echo 'src-git alist https://github.com/sbwml/luci-app-alist' >>feeds.conf.default
+echo 'src-git dae https://github.com/immortalwrt/packages/tree/master/net/dae' >>feeds.conf.default
