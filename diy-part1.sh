@@ -15,3 +15,4 @@
 
 # Add a feed source
 echo 'src-git alist https://github.com/h0n3yfish/OpenWrt-Extra-Packages' >>feeds.conf.default
+echo 'src-git dae https://github.com/h0n3yfish/OpenWrt-Extra-Packages' >>feeds.conf.default
