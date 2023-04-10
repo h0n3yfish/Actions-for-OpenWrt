@@ -15,4 +15,3 @@
 
 # Add a feed source
 echo 'src-git ExtraPackages https://github.com/h0n3yfish/OpenWrt-Extra-Packages' >>feeds.conf.default
-#echo 'src-git alist https://github.com/sbwml/luci-app-alist' >>feeds.conf.default
