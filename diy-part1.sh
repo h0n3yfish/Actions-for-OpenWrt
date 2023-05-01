@@ -14,4 +14,5 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-echo 'src-git ExtraPackages https://github.com/h0n3yfish/OpenWrt-Extra-Packages' >>feeds.conf.default
+#echo 'src-git ExtraPackages https://github.com/h0n3yfish/OpenWrt-Extra-Packages' >>feeds.conf.default
+echo 'src-git immortalwrt https://github.com/immortalwrt/packages' >>feeds.conf.default
